@@ -1,0 +1,10 @@
+Package: kaedu
+Type: Package
+Title: packege of statics
+Version: 0.1.0
+Date: 07-03-2016
+Author: Yeison Eduardo
+Maintainer: Yeison Eduardo <yeison.bts@gmail>
+Description: experimental design package
+License: GPL-2
+LazyData: TRUE
